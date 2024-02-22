@@ -1,2 +1,2 @@
 # Ltd_challenge
-Leetcode Daily challenge
+100 days Leetcode Daily challenge
